@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Calculatrice": {
+      "commandName": "Project"
+    },
+    "Windows Machine": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
